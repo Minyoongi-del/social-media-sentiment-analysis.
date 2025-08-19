@@ -1,0 +1,10 @@
+# Ignore raw datasets
+*.csv
+*.xlsx
+
+# Ignore notebook checkpoints
+*.ipynb_checkpoints/
+
+# Ignore temp or experimental notebooks
+raw_notebooks/
+temp/
